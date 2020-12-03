@@ -34,7 +34,7 @@ $ cargo aoc -d {day} -p {part}
 ```
 
 ##  Puzzles
-- [ ] Day 1
+- [x] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
